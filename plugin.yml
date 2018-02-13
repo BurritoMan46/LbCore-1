@@ -1,7 +1,7 @@
 name: LbCore
 main: LbCore\LbCore
 version: 1.0.0
-api: [3.0.1]
+api: [3.0.0-ALPHA11]
 load:
 author: williamtdr
 authors: [williamtdr]
